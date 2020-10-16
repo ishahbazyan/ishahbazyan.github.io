@@ -10,8 +10,3 @@ if (!current.ignore_automatically_generated_cab) {
 }
 //overkill filtration just in case
 answer = (approvers.filter(approverID => Boolean(approverID)));
-
-
-addEventListener extends export default function (params) {
-    
-};
